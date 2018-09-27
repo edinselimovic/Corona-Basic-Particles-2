@@ -10,3 +10,7 @@ With this tool are made two particle effects that can be found in **emitters** f
 
 To pre-process the .pex particle definition files in a format the can be consumed in Corona SDK the Ponywolf Pex4Corona library is used. This library can be found on this link https://github.com/ponywolf/ponypex.
 
+
+Video below is showing what this showcase application is about
+
+![](docs/CoronaBasicParticles2.gif)
